@@ -19,7 +19,7 @@ const ITENS = [
     preco: "R$ 29,00",
     precoNum: 29.00,
     categoria: "cortes",
-    imagem: "img/social.png"
+    imagem: "social.png"
   },
   {
     nome: "Corte degradê",
@@ -27,7 +27,7 @@ const ITENS = [
     preco: "R$ 35,00",
     precoNum: 35.00,
     categoria: "cortes",
-    imagem: "img/degrade.png "
+    imagem: "degrade.png "
   },
   {
     nome: "Pézinho",
@@ -35,7 +35,7 @@ const ITENS = [
     preco: "R$ 20,00",
     precoNum: 20.00,
     categoria: "cortes",
-    imagem: "img/pezinho.png"
+    imagem: "pezinho.png"
   },
   {
     nome: "Progressiva",
@@ -43,7 +43,7 @@ const ITENS = [
     preco: "R$ 80,00",
     precoNum: 80.00,
     categoria: "outros",
-    imagem: "img/progressiva.png"
+    imagem: "progressiva.png"
   },
   {
     nome: "Luzes",
@@ -51,7 +51,7 @@ const ITENS = [
     preco: " Apartir de R$ 60,00",
     precoNum: 60.00,
     categoria: "outros",
-    imagem: "img/luzes.png"
+    imagem: "luzes.png"
   },
   {
     nome: "Sombrancelha",
@@ -59,7 +59,7 @@ const ITENS = [
     preco: "R$ 10,00",
     precoNum: 10.00,
     categoria: "outros",
-    imagem: "img/sombrancelha.png"
+    imagem: "sombrancelha.png"
   },
   {
     nome: "Platinado",
@@ -67,35 +67,35 @@ const ITENS = [
     preco: " Apartir de R$ 120,00",
     precoNum: 120.00,
     categoria: "outros",
-    imagem: "img/platinado.png"
+    imagem: "platinado.png"
   },{
     nome: "Combo corte + barba + sombrancelha",
     descricao: "Combo com corte, barba e sombrancelha, perfeito para um visual impecável.",
     preco: "R$ 70,00",
     precoNum: 70.00,
     categoria: "combos",
-    imagem: "img/COMBO.png"
+    imagem: "COMBO.png"
   },{
     nome: "Barba",
     descricao: "Barba, alimento ideal para seu visual.",
     preco: "R$ 35,00",
     precoNum: 35.00,
     categoria: "barba",
-    imagem: "img/barba.png"
+    imagem: "barba.png"
   },{
     nome: "Corte + Sombrancelha",
     descricao: "corte + sombrancelha, perfeito para um visual impecável.",
     preco: "R$ 40,00",
     precoNum: 40.00,
     categoria: "combos",
-    imagem: "img/corte e som.png"
+    imagem: "corte e som.png"
   },{
     nome: "Barbaterapia",
     descricao: "barbaterapia, relaxamento e cuidado para a pele do rosto, proporcionando uma experiência de bem-estar e rejuvenescimento.",
     preco: "R$ 50,00",
     precoNum: 50.00,
     categoria: "barba",
-    imagem: "img/barbaterapia.png"
+    imagem: "barbaterapia.png"
   },
 ];
 
@@ -110,19 +110,19 @@ const BEBIDAS = [
     descricao: "Pomada de cabelo, perfeita para modelar e estilizar os cabelos, proporcionando um visual duradouro e com brilho.",
     preco: "R$ 35,00",
     precoNum: 35.00,
-    imagem: "img/pomada.png"
+    imagem: "pomada.png"
   },{
     nome: "Creme hidratante",
     descricao: "Creme para pentear, perfeito para hidratar e desembaraçar os cabelos, proporcionando um visual saudável e brilhante.",
     preco: "R$ 35,00",
     precoNum: 35.00,
-    imagem: "img/creme.png"
+    imagem: "creme.png"
   },
   {
     nome: "Espuma de Barbear",
     descricao: "Espuma de barbear, perfeita para amaciar os pelos e facilitar o processo de barbear, proporcionando um resultado suave e confortável.",
     preco: "R$ 50,00",
     precoNum: 50.00,
-    imagem: "img/espuma.png"
+    imagem: "espuma.png"
   }
 ];
