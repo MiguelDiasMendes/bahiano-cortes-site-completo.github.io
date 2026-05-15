@@ -635,7 +635,7 @@ body {
   position: relative;
   height: 50vh;
   min-height: 50px;
-  background: url("/img/barber-hero-bg.jpg") center/cover no-repeat;
+  background: url("barber-hero-bg.jpg") center/cover no-repeat;
   background-color: #0d0d0d;
   display: flex;
   align-items: center;
